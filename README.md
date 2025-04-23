@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bin_p3ndrops" target="blank"><img src="https://img.shields.io/twitter/follow/bin_p3ndrops?logo=twitter&style=for-the-badge" alt="bin_p3ndrops" /></a> </p>
 
-- 🔭 I’m currently working on **Tech Bubble Community Website**
+- 🔭 I’m currently working personally on **Menstrual Cycle Tracker App** and **Urgent 2kay App** as a team.
 
 - 🌱 I’m currently learning **Backend Development (NodeJS)**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@dikee5200](https://medium.com/@dikee5200)
 
-- 💬 Ask me about **HTML, CSS JavaScript, TypeScript, React, Bootstrap, Tailwind**
+- 💬 Ask me about **HTML, CSS JavaScript, TypeScript, React, Bootstrap, Tailwind, Node.js**
 
 - 📫 How to reach me **dikee5200@gmail.com**
 
