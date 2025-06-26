@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/bin_p3ndrops" target="blank"><img src="https://img.shields.io/twitter/follow/bin_p3ndrops?logo=twitter&style=for-the-badge" alt="bin_p3ndrops" /></a> </p>
 
-- 🔭 I’m currently working personally on **Menstrual Cycle Tracker App** and **Urgent 2kay App** as a team.
+- 🔭 I’m currently working personally on **Menstrual Cycle Tracker App**.
 
-- 🌱 I’m currently learning **Backend Development (NodeJS)**
+- 🌱 I’m currently looking for **collaborative projects**
 
-- 🤝 I’m looking for help with **Backend frameworks**
+- 🤝 I’m looking for help with **AI Agents and ML**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-most-recent-2024.vercel.app/](https://my-portfolio-most-recent-2024.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://my-portfolio-most-recent-2024.vercel.app/](https://my-portfolio-most-recent-2024.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@dikee5200](https://medium.com/@dikee5200)
 
-- 💬 Ask me about **HTML, CSS JavaScript, TypeScript, React, Bootstrap, Tailwind, Node.js**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Tailwind, Node.js, MongoDB**
 
 - 📫 How to reach me **dikee5200@gmail.com**
 
