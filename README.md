@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bin_p3ndrops" target="blank"><img src="https://img.shields.io/twitter/follow/bin_p3ndrops?logo=twitter&style=for-the-badge" alt="bin_p3ndrops" /></a> </p>
 
-- 🔭 I’m currently working personally on **Menstrual Cycle Tracker App**.
+- 🔭 I’m currently working personally on **MyCyber Clinics App**.
 
 - 🌱 I’m currently looking for **collaborative projects**
 
